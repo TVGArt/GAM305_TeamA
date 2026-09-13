@@ -23,21 +23,21 @@ Chosen Scenario: Top Down
 - Storyline: WIP  
   - The player is a vampire that wakes in a crypt and seeks to drain the human that is being guarded. They will have to get through multiple rooms, each of which contains a piece of a key to open the door to the human.  
 - Elements  
-  - Player Power-up Pickups:
-    - Blood Vial
-    - Bandages
-    - Transformation Potion
-      - Researching options for bat, rat, mist, invisibility
-  - Enemies (Moving):
-    - Wandering Guards
-    - Rats or other animal typ 
-  - Obstacles (Moving):
-    - Swinging Axes
-    - Spike traps: popping out of the walls or floor
-    - Saw blades running across ground
+  - Player Power-up Pickups:  
+    - Blood Vial  
+    - Bandages  
+    - Transformation Potion  
+      - Researching options for bat, rat, mist, invisibility  
+  - Enemies (Moving):  
+    - Wandering Guards  
+    - Rats or other animal type  
+  - Obstacles (Moving):  
+    - Swinging Axes  
+    - Spike traps: popping out of the walls or floor  
+    - Saw blades running across ground  
   - Obstacles (Traps):  
-    - False floor/spikes at bottom of hole
-    - Pressure plate with dart or arrow attacks
+    - False floor/spikes at bottom of hole  
+    - Pressure plate with dart or arrow attacks  
 
 ### Timeline
 - 9/14:
