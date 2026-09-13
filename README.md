@@ -73,5 +73,6 @@ Chosen Scenario: Top Down
 
 ### Team Communication
 - Main communication will be done through Discord chats and calls with information also being sent through email for easy access
-- Twice a week, the team will meet in a Discord call. The first weekly meeting is to discuss progress and the following week's sprint goals. The second meeting is to discuss progress on that week's sprint as well as coordinate on assignment submissions. 
+- Twice a week, the team will meet in a Discord call. The first weekly meeting is to discuss progress and the following week's sprint goals. The second meeting is to discuss progress on that week's sprint as well as coordinate on assignment submissions.
+- Project and task status will be reported in a shared excel document as well as the tice weekly meetings.
 
