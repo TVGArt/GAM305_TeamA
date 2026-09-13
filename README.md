@@ -70,7 +70,9 @@ effect)
   - Obstacles affect character and are appropriately animated
   - Main menu functions
   - Pause menu functions
+  - Rooms build out and traversable
 
-Communication : Discord and Email
-Frequency of Meetings: 2x a week on call, regular communication through discord chat
+### Team Communication
+- Main communication will be done through Discord chats and calls with information also being sent through email for easy access
+- Twice a week, the team will meet in a Discord call. The first weekly meeting is to discuss progress and the following week's sprint goals. The second meeting is to discuss progress on that week's sprint as well as coordinate on assignment submissions. 
 
