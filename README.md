@@ -1,7 +1,7 @@
 # Team A Repository
 ## Team Members and Roles  
 John Smith : Level Designer/World Builder  
-Tina Velez-Grey : Team Lead  
+Tina Velez-Grey : Team Lead, Lore  
 Jennifer Beltran : Artist  
 Justin Bass : Programmer  
 Sophie Nolin : UI/UX Programmer/Designer  
@@ -14,32 +14,63 @@ UI/UX Programmer/Designer: This role will oversee the UI/UX development.
 Level Designer/World Builder: This role will oversee the overall level design.  
 
 ## Module Two Team Project Plan
-Engine:  
-Scenario:  
-Brainstorm on content based on the preferred scenario in the design document.
-### Top Down
-Level Elements:
-Required (all):  
-• Starting Location: This is where the player will spawn at the beginning.  
-• Level Goal: This is the “finish line” or “goal” of the level.  
-• Overall story to go with the designed theme; this will provide depth to the level.  
-Additional Elements (choose 4 tasks):  
-• Player Power-up Pickups (health, power ups, etc.) (at least 3 unique types, can be placed around
-the level)  
-• Player Equipment Pickups (armor, weapons, ammo, etc.) (minimum 3 armor, 3 weapons; placed
-around the level)  
-• Enemies (Moving) (2 types, can be moving on platforms or jumping around)  
-• Enemies (Stationary) (2 types, will not move)  
-• Enemies (Bosses) (special enemy that will attack player in a unique way) (minimum 1)  
-• Obstacles (Stationary): (4 unique types, scattered about the level. Will block player or cause an
-effect)  
-• Obstacles (Moving): (3 unique types; scattered about the level. Will harm player or cause an
-effect)  
-• Obstacles (Traps): (2 unique types; scattered about the level. Will cause a negative effect on
-player)  
+Engine: Unreal Engine  
+Chosen Scenario: Top Down  
 
-Create a schedule or timeline for developing your game based on due dates outlined within the course.
-Determine the development goals for the Alpha and Beta Stage submissions (which assets/elements should be in place and what level of functionality you are going to use to track the project progress in the Alpha and Beta stages).
+### Game 
+- Starting Location: Player spawns inside a crypt/coffin
+- Level Goal: The player goal is to get to a supreme human that is guarded nearby. They are of a royal bloodline such as Hellsing.    
+- Storyline: WIP  
+  - The player is a vampire that wakes in a crypt and seeks to drain the human that is being guarded. They will have to get through multiple rooms, each of which contains a piece of a key to open the door to the human.  
+- Elements  
+  - Player Power-up Pickups:
+    - Blood Vial
+    - Bandages
+    - Transformation Potion
+      - Researching options for bat, rat, mist, invisibility
+  - Enemies (Moving):
+    - Wandering Guards
+    - (TBD)
+  - Obstacles (Stationary): (4 unique types, scattered about the level. Will block player or cause an
+effect)  
+  - Obstacles (Moving):
+    - Swinging Axes
+    - Spike traps: popping out of the walls or floor
+    - Saw blades running across ground
+  - Obstacles (Traps):  
+    - TBD
+
+### Timeline
+- 9/14:
+  - Level Designer, Artist, and Programmer will research 2D vs 3D options and determine which type of art they prefer  
+  - Artist will present concept art  
+  - UI/UX and Artist will communicate on art styles to be sure that art styles are balanced  
+- Alpha version will be completed by end of Week 4 (9/26)  
+- Alpha minimum viable product:  
+ - Alpha should have art consistent with fast prototype styles - basic shapes and models  
+  - Programming  
+    - Player Character:  
+      - Movement, pickups, health increases/decreases on proper interaction  
+    - Moving Enemies:  
+      - Enemies that wander  
+    - Moving obstacles:  
+      - Swinging obstacle with collision/damage dealing  
+  - Level design:  
+    - Plans and layout for 5 rooms  
+  - Artist:  
+    - Player character design  
+    - Level art  
+    - item drop art
+  - UI/UX/GUI:
+    - Main Menu functionality: play game button, credits button
+- Beta minimum viable product:
+  - Player character takes and gives damage
+  - Player picks up items and effects are properly applied
+  - Enemies sense and attack player
+  - Obstacles affect character and are appropriately animated
+  - Main menu functions
+  - Pause menu functions
+
 Communication : Discord and Email
 Frequency of Meetings: 2x a week on call, regular communication through discord chat
-Choose a method for assigning and reporting on specific task items.
+
