@@ -76,3 +76,15 @@ Chosen Scenario: Top Down
 - Twice a week, the team will meet in a Discord call. The first weekly meeting is to discuss progress and the following week's sprint goals. The second meeting is to discuss progress on that week's sprint as well as coordinate on assignment submissions.
 - Project and task status will be reported in a shared excel document as well as the tice weekly meetings.
 
+## Module Three Project Log - Team Development: QA and Testing Plan
+
+### Testing Steps
+- Play Test: Testing during the preproduction stage
+- Demo: Testing before marketing will demo the project
+- Code Release: Checking the code release demo with the test plan
+
+### What items will be tested?
+
+### How will the test plan be updated to reflect changes to the game and design document?
+### How will bugs be reported?
+### How will the bugs and their changes be tracked over time?
