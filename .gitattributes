@@ -1,3 +1,2 @@
-Intermediate/CachedAssetRegistry/CachedAssetRegistry filter=lfs diff=lfs merge=lfs -text
-Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_FF3C3A43450275C4F5753DB6B6BC889E.bin filter=lfs diff=lfs merge=lfs -text
-Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_BFE638464EA97C17C3F6F7AC083C83CE.bin filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
