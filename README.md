@@ -78,13 +78,38 @@ Chosen Scenario: Top Down
 
 ## Module Three Project Log - Team Development: QA and Testing Plan
 
+[Sharepoint Excel Document with project tracker and QA checklist](https://snhu-my.sharepoint.com/:x:/r/personal/tina_velezgrey_snhu_edu/Documents/GAM305%20Game%20Task%20Tracker.xlsx?d=wc4c6406d56034a7c963e90a01b0c5bdd&csf=1&web=1&e=O71Q08)
+
 ### Testing Steps
 - Play Test: Testing during the preproduction stage
 - Demo: Testing before marketing will demo the project
 - Code Release: Checking the code release demo with the test plan
 
 ### What items will be tested?
+- Player Character:
+  - on damage taken, health is reduced
+  - attacks enemies and does damage
+  - on character death, respawns to recent checkpoint (to be discussed)
+- Enemies: 
+  - enemies wander when not interacting with player character
+  - enemy triggered by player character
+  - enemy causes damage on attack
+  - enemy takes damage on player attacking
+  - on enemy death, enemy despawns
+- Traps:
+  -  pre-animated or can be triggered to animate
+  -  On collision with player, causes damage
+- Environment
+  - Collectable items
+    - keys: can be collected by player and are removed from scene on interaction
+    - items: same as keys + effects are applied to player as expected on item use
+    - Boss door: will not open without all 5 pieces of the key
 
 ### How will the test plan be updated to reflect changes to the game and design document?
+As new items are added to the list, the date it was added will be added in the appropriate column. If there are areas that need different testing than what is posted, the no longer needed test will be marked with a strike through the words and a note added to explain why it is not being done
+
 ### How will bugs be reported?
+The team will the 'Issues' feature available to us in github. When a new bug is found, the person who discovered the issue will create an issue before messaging the team as a group to let everyone know that a bug has been found and needs reviewed. This allows for a running history of issues and will allow for identifying ownership of responsibilities and the project success.
+
 ### How will the bugs and their changes be tracked over time?
+As mentioned above, the bugs will be recorded in github under issues. We will also have access to discord historical messages. If the issue tracker does not meet the needs of the team, a separate excel tracker will be created to provide an easily accessible area for listing. Similar to the QA changes, as an issue is resolved, the line will be struck through, and a note added by the person making the fixes or determining the bug to not be an issue.
